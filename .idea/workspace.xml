@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01.sort/largest_num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
       <updated>1586936322071</updated>
       <workItem from="1586936324786" duration="741000" />
       <workItem from="1586937622323" duration="1329000" />
-      <workItem from="1587096957976" duration="1446000" />
+      <workItem from="1587096957976" duration="2528000" />
     </task>
     <servers />
   </component>
