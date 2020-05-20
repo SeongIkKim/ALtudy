@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/05.DP/integer_triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04.greedy/make_largest_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.greedy/make_largest_num.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="Python.make_largest_num">
+  <component name="RunManager" selected="Python.integer_triangle">
+    <configuration name="integer_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ALtudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.DP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.DP/integer_triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="make_largest_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +103,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.integer_triangle" />
         <item itemvalue="Python.make_largest_num" />
         <item itemvalue="Python.tower" />
       </list>
@@ -102,6 +125,7 @@
       <workItem from="1587797916407" duration="3000" />
       <workItem from="1587798058192" duration="716000" />
       <workItem from="1589909461130" duration="3173000" />
+      <workItem from="1589968321695" duration="2666000" />
     </task>
     <servers />
   </component>
@@ -117,53 +141,53 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1587798546195" />
-    <state width="854" height="391" key="GridCell.Tab.0.bottom" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom" timestamp="1589970210294">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350682" />
-    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587770" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210294" />
     <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.0.center" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.0.center" timestamp="1589970210293">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350681" />
-    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587768" />
+    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210293" />
     <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.0.left" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.0.left" timestamp="1589970210292">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350681" />
-    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587768" />
+    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210292" />
     <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.0.right" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.0.right" timestamp="1589970210293">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350682" />
-    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587769" />
+    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210293" />
     <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1589915461998">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1589970210770">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351399" />
-    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210770" />
     <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461998" />
-    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1589970210769">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351398" />
-    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210769" />
     <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1589915461997">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1589970210769">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351397" />
-    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588253" />
+    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210769" />
     <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
-    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1589915461998">
-      <screen x="0" y="23" width="1792" height="1020" />
+    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1589970210770">
+      <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351398" />
-    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589970210770" />
     <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461998" />
     <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1587798617596">
       <screen x="0" y="23" width="1792" height="1017" />
@@ -261,7 +285,8 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ALtudy$integer_triangle.coverage" NAME="integer_triangle Coverage Results" MODIFIED="1589970210191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.DP" />
     <SUITE FILE_PATH="coverage/ALtudy$tower.coverage" NAME="tower Coverage Results" MODIFIED="1589909619530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.stack&amp;queue" />
-    <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589914587663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
+    <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589968421610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
   </component>
 </project>
