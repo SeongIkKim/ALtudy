@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04.greedy/make_largest_num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.greedy/make_largest_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.greedy/make_largest_num.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1587096957976" duration="2528000" />
       <workItem from="1587797916407" duration="3000" />
       <workItem from="1587798058192" duration="716000" />
-      <workItem from="1589909461130" duration="880000" />
+      <workItem from="1589909461130" duration="3173000" />
     </task>
     <servers />
   </component>
@@ -117,46 +117,54 @@
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
     <state x="360" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1017@0.23.1792.1017" timestamp="1587798546195" />
-    <state width="854" height="391" key="GridCell.Tab.0.bottom" timestamp="1589909777410">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350682" />
-    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777410" />
-    <state width="854" height="391" key="GridCell.Tab.0.center" timestamp="1589909777410">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587770" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.0.center" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350681" />
-    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777410" />
-    <state width="854" height="391" key="GridCell.Tab.0.left" timestamp="1589909777409">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587768" />
+    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.0.left" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350681" />
-    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777409" />
-    <state width="854" height="391" key="GridCell.Tab.0.right" timestamp="1589909777410">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587768" />
+    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.0.right" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587798350682" />
-    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777410" />
-    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1589909777412">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589914587769" />
+    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1589915461998">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351399" />
-    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777412" />
-    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1589909777411">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461998" />
+    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351398" />
-    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777411" />
-    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1589909777411">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1589915461997">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351397" />
-    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777411" />
-    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1589909777412">
-      <screen x="0" y="23" width="1792" height="1017" />
+    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588253" />
+    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461997" />
+    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1589915461998">
+      <screen x="0" y="23" width="1792" height="1020" />
     </state>
     <state width="1750" height="402" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1587798351398" />
-    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589909777412" />
+    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1589914588254" />
+    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1589915461998" />
     <state x="554" y="288" width="683" height="486" key="find.popup" timestamp="1587798617596">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
@@ -194,11 +202,66 @@
           <line>98</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04.greedy/make_largest_num.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ALtudy$tower.coverage" NAME="tower Coverage Results" MODIFIED="1589909619530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.stack&amp;queue" />
-    <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589909635165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
+    <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589914587663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
   </component>
 </project>
