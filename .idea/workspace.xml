@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/001_Valid_Palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/001_Valid_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/001_Valid_Palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <workItem from="1587798058192" duration="716000" />
       <workItem from="1589909461130" duration="3173000" />
       <workItem from="1589968321695" duration="3054000" />
-      <workItem from="1605080251380" duration="173000" />
+      <workItem from="1605080251380" duration="663000" />
     </task>
     <servers />
   </component>
