@@ -1,4 +1,5 @@
 import collections
+import re
 import string
 from typing import List
 
@@ -23,3 +24,18 @@ class Solution:
 14.1MB(75.73%)
 '''
 
+
+class Solution:
+    def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
+        # 1. re.sub(정규표현식 치환)으로 paragraph 내 word만 남기고 나머지 전부 공백으로 치환
+        # 2. list comprehension에 조건식을 넣어 banned word는 가져오지 않도록 검사
+        words = [word for word in re.sub(r'[^\w]', ' ', paragraph).lower().split() if word not in banned]
+
+        counter = collections.Counter(words)
+
+        return counter.most_common(1)[0][0]
+
+'''
+28ms(94.58%)
+14MB(75.73%)
+'''
