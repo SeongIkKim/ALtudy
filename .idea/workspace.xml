@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/005_Group_Anagrams.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/004_Most_Common_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/004_Most_Common_Word.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.004_Most_Common_Word">
+  <component name="RunManager" selected="Python.005_Group_Anagrams">
     <configuration name="003_Reorder_Data_in_Log_Files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +72,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/004_Most_Common_Word.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="005_Group_Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ALtudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/005_Group_Anagrams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,35 +146,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ALtudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02.stack&amp;queue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.stack&amp;queue/tower.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.005_Group_Anagrams" />
         <item itemvalue="Python.004_Most_Common_Word" />
         <item itemvalue="Python.003_Reorder_Data_in_Log_Files" />
         <item itemvalue="Python.integer_triangle" />
         <item itemvalue="Python.make_largest_num" />
-        <item itemvalue="Python.tower" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,9 @@
       <workItem from="1605089996322" duration="13000" />
       <workItem from="1605165666696" duration="768000" />
       <workItem from="1605249434948" duration="1410000" />
-      <workItem from="1605348281056" duration="2238000" />
+      <workItem from="1605348281056" duration="2260000" />
+      <workItem from="1605350902152" duration="21000" />
+      <workItem from="1605423251795" duration="563000" />
     </task>
     <servers />
   </component>
@@ -185,42 +187,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605249463731">
+    <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605423266888">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1605249463731" />
-    <state width="854" height="267" key="GridCell.Tab.0.bottom" timestamp="1605350372664">
+    <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1605423266888" />
+    <state width="854" height="391" key="GridCell.Tab.0.bottom" timestamp="1605423710897">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="267" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605350372664" />
-    <state width="854" height="267" key="GridCell.Tab.0.center" timestamp="1605350372663">
+    <state width="854" height="391" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605423710897" />
+    <state width="854" height="391" key="GridCell.Tab.0.center" timestamp="1605423710897">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="267" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605350372663" />
-    <state width="854" height="267" key="GridCell.Tab.0.left" timestamp="1605350372663">
+    <state width="854" height="391" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605423710897" />
+    <state width="854" height="391" key="GridCell.Tab.0.left" timestamp="1605423710896">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="267" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605350372663" />
-    <state width="854" height="267" key="GridCell.Tab.0.right" timestamp="1605350372663">
+    <state width="854" height="391" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605423710896" />
+    <state width="854" height="391" key="GridCell.Tab.0.right" timestamp="1605423710897">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="267" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605350372663" />
-    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1605252916057">
+    <state width="854" height="391" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605423710897" />
+    <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1605423711463">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605252916057" />
-    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1605252916057">
+    <state width="854" height="391" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1605423711463" />
+    <state width="854" height="391" key="GridCell.Tab.1.center" timestamp="1605423711462">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605252916057" />
-    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1605252916057">
+    <state width="854" height="391" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1605423711462" />
+    <state width="854" height="391" key="GridCell.Tab.1.left" timestamp="1605423711462">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605252916057" />
-    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1605252916057">
+    <state width="854" height="391" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1605423711462" />
+    <state width="854" height="391" key="GridCell.Tab.1.right" timestamp="1605423711462">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605252916057" />
+    <state width="854" height="391" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1605423711462" />
     <state x="155" y="300" width="670" height="676" key="search.everywhere.popup" timestamp="1605349459979">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
@@ -320,9 +322,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ALtudy$005_Group_Anagrams.coverage" NAME="005_Group_Anagrams Coverage Results" MODIFIED="1605423710727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/ALtudy$integer_triangle.coverage" NAME="integer_triangle Coverage Results" MODIFIED="1605249616410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.DP" />
     <SUITE FILE_PATH="coverage/ALtudy$003_Reorder_Data_in_Log_Files.coverage" NAME="003_Reorder_Data_in_Log_Files Coverage Results" MODIFIED="1605249699043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/ALtudy$004_Most_Common_Word.coverage" NAME="004_Most_Common_Word Coverage Results" MODIFIED="1605349725291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/ALtudy$004_Most_Common_Word.coverage" NAME="004_Most_Common_Word Coverage Results" MODIFIED="1605423330732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/ALtudy$tower.coverage" NAME="tower Coverage Results" MODIFIED="1589909619530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02.stack&amp;queue" />
     <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589968421610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
   </component>
