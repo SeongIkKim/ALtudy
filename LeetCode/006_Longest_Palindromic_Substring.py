@@ -47,4 +47,24 @@ Expected : "aca"
 max_length는 잘못된 개념이었다는걸 깨달았다
 '''
 
+# 2st try:
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if not s:
+            return ""
 
+        max_length_substring = s[0]
+        for left in range(len(s)):
+            for right in range(left, len(s)):
+                if s[left] == s[right]:
+                    substring = s[left:right + 1]
+                    if substring == substring[::-1] and len(substring) > len(max_length_substring):
+                        max_length_substring = substring
+        return max_length_substring
+
+'''
+5700ms(22.63%)
+14.3MB(30.41%)
+무식하게 O(n^2)으로 풀었다.
+처음과 끝을 선비교하지 않았으면 시간초과였다.
+'''
