@@ -73,6 +73,7 @@ class Solution:
 2. 웅덩이의 volume은 각 이동마다 세로길이 측정(정적분처럼)
 '''
 
+# 2nd solution
 
 class Solution:
     def trap(self, height: List[int]) -> int:
