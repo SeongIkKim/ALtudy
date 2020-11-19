@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/008_Trapping_Rain_Water.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/007_Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/007_Two_Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,8 @@
       <workItem from="1605423251795" duration="1363000" />
       <workItem from="1605534723590" duration="1077000" />
       <workItem from="1605551508558" duration="485000" />
-      <workItem from="1605702086757" duration="1459000" />
+      <workItem from="1605702086757" duration="1616000" />
+      <workItem from="1605776750246" duration="1698000" />
     </task>
     <servers />
   </component>
