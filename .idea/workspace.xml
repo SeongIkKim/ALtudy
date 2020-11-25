@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/010_Array_Partition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/011_Product_of_Array_Except_Self.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +193,8 @@
       <workItem from="1605776750246" duration="1900000" />
       <workItem from="1605861957150" duration="1000" />
       <workItem from="1606040982282" duration="468000" />
-      <workItem from="1606191048645" duration="398000" />
+      <workItem from="1606191048645" duration="423000" />
+      <workItem from="1606332794397" duration="519000" />
     </task>
     <servers />
   </component>
