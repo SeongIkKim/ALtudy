@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/2020/day4/4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode/2020/day4/4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode/2020/day4/4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +204,7 @@
       <workItem from="1606816576747" duration="3435000" />
       <workItem from="1606827451092" duration="1069000" />
       <workItem from="1606988555999" duration="6845000" />
-      <workItem from="1607128770671" duration="1433000" />
+      <workItem from="1607128770671" duration="7675000" />
     </task>
     <servers />
   </component>
@@ -216,22 +216,22 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1605423266888" />
-    <state width="854" height="268" key="GridCell.Tab.0.bottom" timestamp="1607130303966">
+    <state width="854" height="268" key="GridCell.Tab.0.bottom" timestamp="1607136564651">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="268" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607130303966" />
-    <state width="854" height="268" key="GridCell.Tab.0.center" timestamp="1607130303965">
+    <state width="854" height="268" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607136564651" />
+    <state width="854" height="268" key="GridCell.Tab.0.center" timestamp="1607136564650">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="268" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607130303965" />
-    <state width="854" height="268" key="GridCell.Tab.0.left" timestamp="1607130303965">
+    <state width="854" height="268" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607136564650" />
+    <state width="854" height="268" key="GridCell.Tab.0.left" timestamp="1607136564650">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="268" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607130303965" />
-    <state width="854" height="268" key="GridCell.Tab.0.right" timestamp="1607130303966">
+    <state width="854" height="268" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607136564650" />
+    <state width="854" height="268" key="GridCell.Tab.0.right" timestamp="1607136564651">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="268" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607130303966" />
+    <state width="854" height="268" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607136564651" />
     <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1605423911360">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
@@ -256,10 +256,10 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="318" y="23" width="619" height="677" key="dock-window-2/0.23.1792.1022@0.23.1792.1022" timestamp="1606993910488" />
-    <state x="155" y="300" width="670" height="676" key="search.everywhere.popup" timestamp="1605349459979">
+    <state x="155" y="300" width="670" height="676" key="search.everywhere.popup" timestamp="1607132764859">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state x="155" y="300" width="670" height="676" key="search.everywhere.popup/0.23.1792.1022@0.23.1792.1022" timestamp="1605349459979" />
+    <state x="155" y="300" width="670" height="676" key="search.everywhere.popup/0.23.1792.1022@0.23.1792.1022" timestamp="1607132764859" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -359,7 +359,7 @@
     <SUITE FILE_PATH="coverage/ALtudy$integer_triangle.coverage" NAME="integer_triangle Coverage Results" MODIFIED="1605249616410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.DP" />
     <SUITE FILE_PATH="coverage/ALtudy$3_1.coverage" NAME="3_1 Coverage Results" MODIFIED="1607000945646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day3" />
     <SUITE FILE_PATH="coverage/ALtudy$day1_2.coverage" NAME="day1_2 Coverage Results" MODIFIED="1606824531591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020" />
-    <SUITE FILE_PATH="coverage/ALtudy$4_1.coverage" NAME="4_1 Coverage Results" MODIFIED="1607130303959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day4" />
+    <SUITE FILE_PATH="coverage/ALtudy$4_1.coverage" NAME="4_1 Coverage Results" MODIFIED="1607136564645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day4" />
     <SUITE FILE_PATH="coverage/ALtudy$004_Most_Common_Word.coverage" NAME="004_Most_Common_Word Coverage Results" MODIFIED="1605423330732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589968421610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
     <SUITE FILE_PATH="coverage/ALtudy$day1_1.coverage" NAME="day1_1 Coverage Results" MODIFIED="1606818243629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020" />
