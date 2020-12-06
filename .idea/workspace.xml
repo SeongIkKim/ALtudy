@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/2020/day6/6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode/2020/day6/6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Linked_List/016_Add_Two_Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/001_Valid_Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/001_Valid_Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/002_Reverse_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/002_Reverse_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/003_Reorder_Data_in_Log_Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/003_Reorder_Data_in_Log_Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/004_Most_Common_Word.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/004_Most_Common_Word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/005_Group_Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/005_Group_Anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/006_Longest_Palindromic_Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Strings/006_Longest_Palindromic_Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/007_Two_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/007_Two_Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/008_Trapping_Rain_Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/008_Trapping_Rain_Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/009_3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/009_3Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/010_Array_Partition.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/010_Array_Partition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/011_Product_of_Array_Except_Self.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/011_Product_of_Array_Except_Self.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/012_Best_Time_to_Buy_and_Sell_Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Array/012_Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/013_Palindrome_Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Linked_List/013_Palindrome_Linked_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/014_Merge_Two_Sorted_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Linked_List/014_Merge_Two_Sorted_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/015_Reverse_Linked_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Linked_List/015_Reverse_Linked_List.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +59,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode/Array" />
+      <recent name="$PROJECT_DIR$/LeetCode/Strings" />
+      <recent name="$PROJECT_DIR$/LeetCode/Linked_List" />
       <recent name="$PROJECT_DIR$/AdventOfCode/2020/day1" />
     </key>
   </component>
@@ -207,7 +224,7 @@
       <workItem from="1606988555999" duration="6845000" />
       <workItem from="1607128770671" duration="10257000" />
       <workItem from="1607155807828" duration="2278000" />
-      <workItem from="1607235881558" duration="1735000" />
+      <workItem from="1607235881558" duration="3012000" />
     </task>
     <servers />
   </component>
@@ -219,22 +236,22 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1607156292167" />
-    <state width="555" height="268" key="GridCell.Tab.0.bottom" timestamp="1607237566991">
+    <state width="555" height="268" key="GridCell.Tab.0.bottom" timestamp="1607237638021">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="555" height="268" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607237566991" />
-    <state width="555" height="268" key="GridCell.Tab.0.center" timestamp="1607237566990">
+    <state width="555" height="268" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607237638021" />
+    <state width="555" height="268" key="GridCell.Tab.0.center" timestamp="1607237638020">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="555" height="268" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607237566990" />
-    <state width="555" height="268" key="GridCell.Tab.0.left" timestamp="1607237566989">
+    <state width="555" height="268" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607237638020" />
+    <state width="555" height="268" key="GridCell.Tab.0.left" timestamp="1607237638020">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="555" height="268" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607237566989" />
-    <state width="555" height="268" key="GridCell.Tab.0.right" timestamp="1607237566990">
+    <state width="555" height="268" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607237638020" />
+    <state width="555" height="268" key="GridCell.Tab.0.right" timestamp="1607237638020">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="555" height="268" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607237566990" />
+    <state width="555" height="268" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607237638020" />
     <state width="854" height="391" key="GridCell.Tab.1.bottom" timestamp="1605423911360">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
