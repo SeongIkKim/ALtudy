@@ -1,28 +1,59 @@
-    # if len(list(words)) > 10:
-    #     outer = f'{words[0]} {words[1]}'
-    #     inner = [f'{words[5]} {words[6]}', f'{words[9]} {words[10]}']
-    #     for i in inner:
-    #         rules_d[i].add(outer)
-    # else:
-    #     outer = f'{words[0]} {words[1]}'
-    #     if words[4] != 'no':
-    #         rules_d[f'{words[5]} {words[6]}'].add(outer) # 체크
-    #         # inner = [f'{words[5]} {words[6]}'] # 이거써야되는거 아닌지 체크
+from collections import defaultdict
 
-outers= set()
+with open('inputs.txt') as f:
+    rules = f.read().split('\n')[:-1]
 
-for k, v in rules_d.items():
+rules_number = defaultdict(list)
+
+for rule in rules:
+    outer, inner = rule.split(' contain ')
+    outer = ' '.join(outer.split()[:-1])
+    inner = inner.split(',')
+
+    for i in range(len(inner)):
+        number = name = None
+        words = inner[i].split()[:3]
+        name = ' '.join(words[1:])
+        if words[0].isdigit():
+            number = int(words[0])
+            rules_number[outer].append((name,number))
+        inner[i] = name
+
+
+
+count = 0
+for k, v in rules_number.items():
     print(k, v)
 
-def search(d, target, outers):
-    # print(target, ' can be in...')
-    for i in d[target]:
-        # print(i)
-        search(d,i,outers)
-        outers.add(i)
+def count_bags(d, target):
+    print(f'im in target {target}')
+    if not d[target]:
+        print('it contains nothing')
+        return 1
+    a = 0
+    for require in d[target]:
+        name, num = require[0], require[1]
+        print(f"I'll gonna check how much bags {name} has...")
+        b = (num * (count_bags(d, name)))
+        print(f"it has {b} bags")
+        a += b
 
-search(rules_d, 'shiny gold', outers)
+    print('all a is ', a)
 
-print(outers)
+    return a + 1
+
+count = count_bags(rules_number, 'shiny gold') - 1
+
+print(count)
 
 
+# def search(d, target, count):
+#     for i in d[target]:
+#         search(d, i, outers)
+#         outers.add(i)
+
+
+
+# search(rules_d, 'shiny gold', count)
+
+# dfs 문제다!
