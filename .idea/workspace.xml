@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6c78c831-ef3c-4559-9670-90bc4e6a7664" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode/2020/day11/11_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode/2020/day11/11_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/Linked_List/019_Reverse_Linked_List_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/Linked_List/019_Reverse_Linked_List_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/templates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,8 @@
       <recent name="$PROJECT_DIR$/AdventOfCode/2020/day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11_2">
-    <configuration name="10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.019_Reverse_Linked_List_2">
+    <configuration name="019_Reverse_Linked_List_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,34 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Linked_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day10/10_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ALtudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day10/10_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Linked_List/019_Reverse_Linked_List_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,12 +128,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day9/9_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ALtudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.019_Reverse_Linked_List_2" />
+        <item itemvalue="Python.12_2" />
+        <item itemvalue="Python.12_1" />
         <item itemvalue="Python.11_2" />
         <item itemvalue="Python.11_1" />
-        <item itemvalue="Python.10_2" />
-        <item itemvalue="Python.10_1" />
-        <item itemvalue="Python.9_2" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,10 @@
       <workItem from="1607560621085" duration="952000" />
       <workItem from="1607563109936" duration="1311000" />
       <workItem from="1607591226403" duration="7304000" />
-      <workItem from="1607692503987" duration="12457000" />
+      <workItem from="1607692503987" duration="12745000" />
+      <workItem from="1607706065952" duration="17000" />
+      <workItem from="1607766032182" duration="3718000" />
+      <workItem from="1607774545994" duration="2432000" />
     </task>
     <servers />
   </component>
@@ -231,38 +235,38 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1607156292167" />
-    <state width="854" height="196" key="GridCell.Tab.0.bottom" timestamp="1607705593269">
+    <state width="854" height="196" key="GridCell.Tab.0.bottom" timestamp="1607780655029">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="196" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607705593269" />
-    <state width="854" height="196" key="GridCell.Tab.0.center" timestamp="1607705593268">
+    <state width="854" height="196" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655029" />
+    <state width="854" height="196" key="GridCell.Tab.0.center" timestamp="1607780655028">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="196" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607705593268" />
-    <state width="854" height="196" key="GridCell.Tab.0.left" timestamp="1607705593268">
+    <state width="854" height="196" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655028" />
+    <state width="854" height="196" key="GridCell.Tab.0.left" timestamp="1607780655028">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="196" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607705593268" />
-    <state width="854" height="196" key="GridCell.Tab.0.right" timestamp="1607705593269">
+    <state width="854" height="196" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655028" />
+    <state width="854" height="196" key="GridCell.Tab.0.right" timestamp="1607780655029">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="196" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607705593269" />
-    <state width="854" height="393" key="GridCell.Tab.1.bottom" timestamp="1607697618453">
+    <state width="854" height="196" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655029" />
+    <state width="854" height="393" key="GridCell.Tab.1.bottom" timestamp="1607706049766">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="393" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607697618453" />
-    <state width="854" height="393" key="GridCell.Tab.1.center" timestamp="1607697618453">
+    <state width="854" height="393" key="GridCell.Tab.1.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607706049766" />
+    <state width="854" height="393" key="GridCell.Tab.1.center" timestamp="1607706049766">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="393" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607697618453" />
-    <state width="854" height="393" key="GridCell.Tab.1.left" timestamp="1607697618453">
+    <state width="854" height="393" key="GridCell.Tab.1.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607706049766" />
+    <state width="854" height="393" key="GridCell.Tab.1.left" timestamp="1607706049766">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="393" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607697618453" />
-    <state width="854" height="393" key="GridCell.Tab.1.right" timestamp="1607697618453">
+    <state width="854" height="393" key="GridCell.Tab.1.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607706049766" />
+    <state width="854" height="393" key="GridCell.Tab.1.right" timestamp="1607706049766">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
-    <state width="854" height="393" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607697618453" />
+    <state width="854" height="393" key="GridCell.Tab.1.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607706049766" />
     <state x="258" y="23" width="619" height="712" key="dock-window-1" timestamp="1606990862704">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
@@ -375,6 +379,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ALtudy$integer_triangle.coverage" NAME="integer_triangle Coverage Results" MODIFIED="1605249616410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.DP" />
+    <SUITE FILE_PATH="coverage/ALtudy$019_Reverse_Linked_List_2.coverage" NAME="019_Reverse_Linked_List_2 Coverage Results" MODIFIED="1607774582675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode/Linked_List" />
     <SUITE FILE_PATH="coverage/ALtudy$11_1.coverage" NAME="11_1 Coverage Results" MODIFIED="1607697784953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day11" />
     <SUITE FILE_PATH="coverage/ALtudy$8_1.coverage" NAME="8_1 Coverage Results" MODIFIED="1607413015588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day8" />
     <SUITE FILE_PATH="coverage/ALtudy$4_1.coverage" NAME="4_1 Coverage Results" MODIFIED="1607151649414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day4" />
@@ -383,6 +388,7 @@
     <SUITE FILE_PATH="coverage/ALtudy$003_Reorder_Data_in_Log_Files.coverage" NAME="003_Reorder_Data_in_Log_Files Coverage Results" MODIFIED="1605249699043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/ALtudy$7_1.coverage" NAME="7_1 Coverage Results" MODIFIED="1607337575847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day7" />
     <SUITE FILE_PATH="coverage/ALtudy$10_1.coverage" NAME="10_1 Coverage Results" MODIFIED="1607592130171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day10" />
+    <SUITE FILE_PATH="coverage/ALtudy$12_2.coverage" NAME="12_2 Coverage Results" MODIFIED="1607769565476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day12" />
     <SUITE FILE_PATH="coverage/ALtudy$8_2.coverage" NAME="8_2 Coverage Results" MODIFIED="1607416614008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day8" />
     <SUITE FILE_PATH="coverage/ALtudy$005_Group_Anagrams.coverage" NAME="005_Group_Anagrams Coverage Results" MODIFIED="1606816785521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/ALtudy$3_1.coverage" NAME="3_1 Coverage Results" MODIFIED="1607000945646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day3" />
@@ -393,6 +399,7 @@
     <SUITE FILE_PATH="coverage/ALtudy$make_largest_num.coverage" NAME="make_largest_num Coverage Results" MODIFIED="1589968421610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04.greedy" />
     <SUITE FILE_PATH="coverage/ALtudy$7_2.coverage" NAME="7_2 Coverage Results" MODIFIED="1607342138389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day7" />
     <SUITE FILE_PATH="coverage/ALtudy$day1_1.coverage" NAME="day1_1 Coverage Results" MODIFIED="1606818243629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020" />
+    <SUITE FILE_PATH="coverage/ALtudy$12_1.coverage" NAME="12_1 Coverage Results" MODIFIED="1607768185848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day12" />
     <SUITE FILE_PATH="coverage/ALtudy$3_2.coverage" NAME="3_2 Coverage Results" MODIFIED="1607001207958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day3" />
     <SUITE FILE_PATH="coverage/ALtudy$9_1.coverage" NAME="9_1 Coverage Results" MODIFIED="1607505676067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day9" />
     <SUITE FILE_PATH="coverage/ALtudy$5_1.coverage" NAME="5_1 Coverage Results" MODIFIED="1607236023826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AdventOfCode/2020/day5" />
