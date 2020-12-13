@@ -53,7 +53,11 @@
       <recent name="$PROJECT_DIR$/AdventOfCode/2020/day1" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.13_2">
+=======
+  <component name="RunManager" selected="Python.019_Reverse_Linked_List_2">
+>>>>>>> master
     <configuration name="019_Reverse_Linked_List_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +80,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="11_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> master
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,12 +92,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day12" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day11" />
+>>>>>>> master
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day11/11_1.py" />
+>>>>>>> master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +114,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="11_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> master
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +131,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day11/11_2.py" />
+>>>>>>> master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +144,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="13_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="12_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> master
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +156,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day13" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day12" />
+>>>>>>> master
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day13/13_1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_1.py" />
+>>>>>>> master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +178,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="13_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="12_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> master
       <module name="ALtudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,12 +190,20 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day13" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdventOfCode/2020/day12" />
+>>>>>>> master
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day13/13_2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdventOfCode/2020/day12/12_2.py" />
+>>>>>>> master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +214,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.13_2" />
         <item itemvalue="Python.13_1" />
         <item itemvalue="Python.019_Reverse_Linked_List_2" />
         <item itemvalue="Python.12_2" />
         <item itemvalue="Python.12_1" />
+=======
+        <item itemvalue="Python.019_Reverse_Linked_List_2" />
+        <item itemvalue="Python.12_2" />
+        <item itemvalue="Python.12_1" />
+        <item itemvalue="Python.11_2" />
+        <item itemvalue="Python.11_1" />
+>>>>>>> master
       </list>
     </recent_temporary>
   </component>
@@ -223,8 +279,12 @@
       <workItem from="1607692503987" duration="12745000" />
       <workItem from="1607706065952" duration="17000" />
       <workItem from="1607766032182" duration="3718000" />
+<<<<<<< HEAD
       <workItem from="1607774545994" duration="2517000" />
       <workItem from="1607852545502" duration="5909000" />
+=======
+      <workItem from="1607774545994" duration="2432000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
@@ -235,6 +295,7 @@
     <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607852713626">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
+<<<<<<< HEAD
     <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1607852713626" />
     <state width="854" height="196" key="GridCell.Tab.0.bottom" timestamp="1607862822064">
       <screen x="0" y="23" width="1792" height="1022" />
@@ -252,6 +313,25 @@
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
     <state width="854" height="196" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607862822064" />
+=======
+    <state x="742" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1607156292167" />
+    <state width="854" height="196" key="GridCell.Tab.0.bottom" timestamp="1607780655029">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="854" height="196" key="GridCell.Tab.0.bottom/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655029" />
+    <state width="854" height="196" key="GridCell.Tab.0.center" timestamp="1607780655028">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="854" height="196" key="GridCell.Tab.0.center/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655028" />
+    <state width="854" height="196" key="GridCell.Tab.0.left" timestamp="1607780655028">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="854" height="196" key="GridCell.Tab.0.left/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655028" />
+    <state width="854" height="196" key="GridCell.Tab.0.right" timestamp="1607780655029">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state width="854" height="196" key="GridCell.Tab.0.right/0.23.1792.1022@0.23.1792.1022" timestamp="1607780655029" />
+>>>>>>> master
     <state width="854" height="393" key="GridCell.Tab.1.bottom" timestamp="1607706049766">
       <screen x="0" y="23" width="1792" height="1022" />
     </state>
