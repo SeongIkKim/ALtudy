@@ -60,7 +60,7 @@ class Solution:
         counter, seen, stack = collections.Counter(s), set(), []
 
         for char in s:
-            counter(char) -= 1
+            counter[char] -= 1
             # 처리된 문자일경우 스킵
             # 즉, 중복문자인데 앞에 나와있는 같은 문자가 이미 있어서 이번 것은 제거해야할때
             if char in seen:
