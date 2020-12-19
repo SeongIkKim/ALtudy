@@ -52,4 +52,14 @@ def valid_messages():
 
 print(valid_messages())
 
+'''
+DP라고 생각해서 recursive로 풀어야한다고 느꼈다.
+그런데 recursive를 제대로 짤수가 없었다...
+결국 레딧을 참고했다.
+1. str의 잡다한 메소드는 많이 알지만, map,lamda 사용이 부족하다.
+2. recursive 사용 기법 중 head를 처리하고 뒷 string을 넘기는 방식이 익숙하지 않다.
+대부분의 풀이들은 regex를 이용했지만, 위의 풀이는 stack만을 이용한 풀이다.
+추후에 regex를 이용한 풀이도 찾아봐야겠다.
+'''
+
 
