@@ -69,3 +69,50 @@ class Solution:
 2. end는 리스트가 밀려나면서 자동적으로 tail 노드가 된다는 것
 이해하면 간단한데 떠올리기가 쉽지 않다
 '''
+
+# Graph
+
+## DFS
+
+### 재귀구조
+def recursive_dfs(v, discovered=[]):
+    discovered.append(v)
+    for w in graph[v]:
+        if w not in discovered:
+            discovered = recursive_dfs(w, discovered)
+    return discovered
+
+### 반복구조(스택) - 재귀와 달리 역순으로 DFS를 수행한다.
+def iterative_dfs(start_v):
+    discovered=[]
+    stack = [start_v]
+    while stack:
+        v = stack.pop()
+        if v not in discovered:
+            discovered.append(v)
+            for w in graph[v]:
+                stack.append(w)
+    return discovered
+
+'''
+dfs는 백트래킹의 골격이 되는 알고리즘이다.
+'''
+
+## BFS
+
+### 반복구조(큐)
+def iterative_bfs(start_v):
+    discovered = []
+    queue = [start_v]
+    while queue:
+        v = queue.pop(0)
+        for w in graph[v]:
+            if w not in discovered:
+                discovered.append(w)
+                queue.append(w)
+    return discovered
+
+'''
+dfs(반복)은 stack에서 빼낸 v를 검사하지만,
+bfs(반복)은 queue에서 빼낸 v의 다음 w들을 검사한다.
+'''
