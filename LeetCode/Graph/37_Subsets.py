@@ -36,3 +36,22 @@ class Solution:
 14.4MB(42.56%)
 '''
 
+# solution
+
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        subsets = []
+
+        def dfs(path, index):
+            subsets.append(path)
+            for i in range(index, len(nums)):
+                dfs(path + [nums[i]], i + 1)
+
+        dfs([], 0)
+        return subsets
+
+'''
+28ms(93.81%)
+14.4MB(67.21)
+탈출 조건.. 명시하지 않아도 i+1씩 넘겨주고 있다면 알아서 끝납니다.
+'''
