@@ -87,6 +87,24 @@ def recursive_dfs(v, discovered=[]):
             discovered = recursive_dfs(w, discovered)
     return discovered
 
+# -> dfs를 이용한 combinations 코드 예시 (LeetCode Graph - 35 참조)
+
+class Solution:
+    def combine(self, n: int, k: int) -> List[List[int]]:
+        S = []
+        # 중첩구조 선언
+        def dfs(comb, next_i):
+            # 탈출 조건 명시
+            if len(comb) == k:
+                S.append(comb)
+                return
+            # index를 넘겨 다음 index에 대해서만 재귀호출
+            for i in range(next_i, n + 1):
+                # 인자로 넘길때 path에 i를 넣어서 전달하기
+                dfs(comb+[i], i + 1)
+        dfs([], 1)
+        return S
+
 ### 반복구조(스택) - 재귀와 달리 역순으로 DFS를 수행한다.
 def iterative_dfs(start_v):
     discovered=[]
