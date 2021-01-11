@@ -11,7 +11,6 @@ class Solution:
         graph = collections.defaultdict(list)
         for u, v, w in flights:
             graph[u].append((v, w))
-        print(graph)
 
         D = collections.defaultdict(lambda: sys.maxsize)
 
@@ -45,7 +44,6 @@ class Solution:
         graph = collections.defaultdict(list)
         for u, v, w in flights:
             graph[u].append((v, w))
-        print(graph)
 
         D = collections.defaultdict(lambda: sys.maxsize)
 
@@ -74,7 +72,6 @@ class Solution:
         graph = collections.defaultdict(list)
         for u, v, w in flights:
             graph[u].append((v, w))
-        print(graph)
 
         D = collections.defaultdict(lambda: sys.maxsize)
 
@@ -105,3 +102,35 @@ BFS
 4. 이 때, 이미 찾은 원소를 가지치기 하지 않으면 메모리/시간 초과.
 '''
 
+# solution
+
+class Solution:
+    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, K: int) -> int:
+        graph = collections.defaultdict(list)
+        for u, v, w in flights:
+            graph[u].append((v, w))
+
+        # 전체 거리를 보관할 필요가 없기에 D 딕셔너리를 삭제
+        # 도착점까지 최단 경로만 계산하면 됨
+
+        # 큐 변수 : [(가격, 정점, 남은 가능 경유지 수)]
+        Q = [(0, src, K)]
+
+        while Q:
+            price, node, k = heapq.heappop(Q)
+            if node == dst:
+                return price
+            if k >= 0:
+                for v, w in graph[node]:
+                    alt = price + w
+                    heapq.heappush(Q, (alt, v, k - 1))
+        return -1
+
+'''
+84ms(83.48%)
+19.8MB(27.37%)
+D를 두지 않고서도 dst까지의 최단경로만 구하면 된다.
+다만, 직관성을 위해 가지치기를 하지 않아서 공간복잡도가 커졌다.
+dst를 찾자마자 바로 price를 반환할수 있는것은 왜인지 잘 모르겠다...
+K 이내의 더 많은 횟수 & 더 낮은 price로 dst에 도착할 수 있는것은 아닌지..
+'''
