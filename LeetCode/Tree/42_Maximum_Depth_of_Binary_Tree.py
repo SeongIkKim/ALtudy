@@ -60,4 +60,5 @@ class Solution:
 '''
 40ms(73.34%)
 15.4MB(91.39%)
+solution(bfs)과 완전히 똑같음.
 '''
