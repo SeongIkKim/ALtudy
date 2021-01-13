@@ -40,5 +40,33 @@ class Solution:
 105/106개를 해결했다.(까비)
 '''
 
+# solution - dfs
 
+class Solution:
+    longest = 0
+
+    def diameterOfBinaryTree(self, root: TreeNode) -> int:
+        def dfs(node):
+            if not node:
+                # 기본적으로 좌, 우가 있다는 가정하에 2를 더하는데, 한 노드가 없으면 2 중 1이 사라져야하므로 -1을 리턴해준다
+                return -1
+            # 왼쪽, 오른쪽의 각 리프노드까지 탐색
+            left = dfs(node.left)
+            right = dfs(node.right)
+
+            # 가장 긴 경로
+            # nested 함수에서 클래스변수를 사용하지 않고 그냥 부모 함수의 변수를 갱신하면, 로컬변수로 변경되어버린다
+            self.longest = max(self.longest, left + right + 2)
+            # 상태 값
+            # 윗 노드로 올려보낼때 또 하나의 edge를 거치므로, +1
+            return max(left, right) + 1
+
+        dfs(root)
+        return self.longest
+
+'''
+기본적인 구상은 크게 다르지 않은데, 코드에 많은 차이가 있다.
+1. 중첩 함수에서 부모 함수의 변수에 append, add 등이 아닌 갱신을 할 경우, local variable이 되어버린다. 따라서 클래스변수를 사용할것.
+2. 가장 아래까지 내려갔다가 백트래킹으로 하나씩 업데이트하는 방식
+'''
 
