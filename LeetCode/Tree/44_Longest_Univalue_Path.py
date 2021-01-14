@@ -38,6 +38,8 @@ class Solution:
 너무 간단하게 생각했나?
 '''
 
+# solution
+
 class Solution:
     result = 0
 
